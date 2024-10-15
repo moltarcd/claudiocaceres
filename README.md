@@ -26,14 +26,6 @@ Más de 10 años de experiencia en el área de sistemas, ocupando roles como ana
 ---
 
 ## Experiencia Profesional
-
-### Grupo Slots - Loteria de San Luis
-**IGT System Administration y Data Analytics** *(01/06/2017 - 01/03/2021)*
-- Configuraciones en sistemas Linux (Red Hat Enterprise).
-- Ejecución de pruebas de regresión y funcionales (manuales).
-- Despliegue de aplicaciones en ambientes de producción.
-- Generación de reportes gráficos y scripting (AWK, Pentaho, Power BI).
-
 ### Unitech S.A.
 **Analista Funcional & QA Sr.** *(01/04/2011 - 26/01/2015 y 01/06/2021 - 01/03/2022)*
 - Análisis y documentación de requerimientos.
@@ -43,6 +35,13 @@ Más de 10 años de experiencia en el área de sistemas, ocupando roles como ana
 ### KI TEKNOLOGY (Santiago de Chile)
 **Programador PHP** *(01/03/2016 - 26/08/2016)*
 - Desarrollo de aplicaciones web y backend en PHP.
+
+### Grupo Slots - Loteria de San Luis
+**IGT System Administration y Data Analytics** *(01/06/2017 - 01/03/2021)*
+- Configuraciones en sistemas Linux (Red Hat Enterprise).
+- Ejecución de pruebas de regresión y funcionales (manuales).
+- Despliegue de aplicaciones en ambientes de producción.
+- Generación de reportes gráficos y scripting (AWK, Pentaho, Power BI).
 
 ### VATES S.A. - CLARO
 **Tester QA Manual - Automatizador Jr.** *(01/04/2021 - 01/04/2023)*
