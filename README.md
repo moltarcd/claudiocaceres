@@ -2,9 +2,8 @@
 **Analista de Funcional - QA Manual y Automation**
 
 ## Información de Contacto
-- **Dirección:** Bº Jardin San Luis, San Luis Capital, Argentina
+- **Dirección:**  San Luis Capital, Argentina
 - **Email:** caceres.claudio@gmail.com
-- **Teléfono:** +54 2664 770679
 - **LinkedIn:** [linkedin.com/in/caceresclaudio](https://ar.linkedin.com/in/caceresclaudio)
 - **GitHub:** [github.com/moltarcd](https://github.com/moltarcd)
 
